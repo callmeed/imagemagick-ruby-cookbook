@@ -19,6 +19,11 @@ Usage
 
 Each folder has a .rb file and some sample images. Most of them can be run in the command line like any Ruby script. Check the comments of each .rb file for details. 
 
+**Please note** that I'm calling all ImageMagick commands via backtick shell execution–not by any gems such as rmagick. Because of this, let me give two words of caution: 
+
+* If you're going to use these in a Rails/Sinatra app, they probably won't work on Heroku or other platforms that don't have persistent storage. 
+* If you modify these for use in a web app, **please** be careful about putting user-generated content (images) in these commands. 
+
 Timing
 -----
 
