@@ -27,7 +27,7 @@ There's more than one way to skin a cat in ImageMagick. I've included some basic
 License and Copyright
 -----
 
-All **the code in this project** is distributed under the MIT License (below). All **the sample images in this project** are mine and protected by copyright. You are free to use the test images when testing these scripts but not permission is granted for other usage or distribution. Besides, why would you want pictures of my family anyway? 
+All **the code in this project** is distributed under the MIT License (below). All **the sample images in this project** are mine and protected by copyright. You are free to use the images when testing these scripts but no permission is granted for other usage or distribution. Besides, why would you want pictures of my family? 
 
 Copyright 2013 Erik Dungan
 http://callmeed.co
