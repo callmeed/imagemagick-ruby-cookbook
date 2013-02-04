@@ -1,3 +1,10 @@
+# Page builder
+# This takes all the images in the directory and creates new images at a different size and 
+# with the original images centered. It's use is primarily for creating print-ready book pages
+# which must be of a specific size
+
+
+
 # Get all the JPG images in the current directory
 images = Dir['*.jpg']
 

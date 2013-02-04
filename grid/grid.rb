@@ -1,3 +1,8 @@
+# Grid Builder
+# This takes all the images in the directory and creates a single, large grid 
+# image using ImageMagick's montage command
+# works best with a square number of images (2, 4, 9, 16, etc.)
+
 # Measure the time 
 start_time = Time.now
 
